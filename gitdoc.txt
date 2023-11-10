@@ -1,1 +1,1 @@
-This is the sample file that should be pushed to the git and this is the second file! - Tester Branch!
+This is the sample file that should be pushed to the git and this is the second file! - Tester Branch (main)!
